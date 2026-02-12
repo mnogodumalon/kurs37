@@ -1,0 +1,11 @@
+{
+  "sessions": [
+    {
+      "id": "bad7e1ab-cb4d-4f7e-ad2a-671a2eb5205e",
+      "name": "2026-02-12 16:30 - UI-First: kurs37",
+      "created_at": "2026-02-12T16:30:41.151938Z",
+      "last_used": "2026-02-12T16:30:41.151938Z"
+    }
+  ],
+  "active_session": "bad7e1ab-cb4d-4f7e-ad2a-671a2eb5205e"
+}
